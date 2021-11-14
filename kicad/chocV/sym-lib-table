@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name HorizonParts)(type Legacy)(uri /Users/rich/Projects/mk/kicad/rsu_keyboard/horizon-components/horizon-components.lib)(options "")(descr ""))
+)
