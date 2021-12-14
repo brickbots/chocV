@@ -50,7 +50,7 @@ feel better when I do a lot of typing, but the BabyV has a great sound, good loo
 monoblocks are just easier to manage on a desk... it might have a few too many keys, but 
 nothing is perfect :-)
 
-Miryoku is has both a fully supported QMK build system and a work in progress system for ZMK.
+Miryoku has both a fully supported QMK build system and a work in progress system for ZMK.
 If you are looking for a well thought-out minimalist layout, I can't recommend it enough.
 
 
