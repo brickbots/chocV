@@ -17,8 +17,8 @@ Thus the chocV was born!
 ## Construction
 
 [Skarrmann](https://github.com/skarrmann/horizon) has a wonderful description of 
-the concept, but the main idea is to generate at least TWO pcb's for the keyboard.  
-One standard PCB with traces and all the components, and a second which bolts directly 
+the concept, but the main idea is to generate at least TWO pcb's for the keyboard.  One 
+standard PCB with traces and all the components, and a second which bolts directly 
 under with cutouts that match all the components on the first to protect them (and your 
 desk) from damage.  This ends up creating a really tidy and very low profile board.
 
