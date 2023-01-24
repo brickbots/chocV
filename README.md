@@ -60,4 +60,4 @@ If you are looking for a well thought-out minimalist layout, I can't recommend i
 
 If you are interested in building a chocV, feel free to use the files here and to reach out with
 any questions.  Happy Keyboarding!
-
+[![ko-fi](https://storage.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/brickbots)
